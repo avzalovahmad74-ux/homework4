@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: sans-serif;
+}
+.button1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 0;
+}
+.button2 {
+    background-color: white;
+    color: black;
+    padding: 9px;
+    border: 0;
+    border: 1px solid black;
+}
+.divlefthider {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.divrighthider {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.hider {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #F1DFD5;
+}
+.s1 {
+    text-align: center;
+    background-color: #F1DFD5;
+    padding: 200px;
+    font-size: 30px;
+}
