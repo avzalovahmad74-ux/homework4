@@ -58,3 +58,10 @@
     justify-content: space-around;
     margin-top: 50px;
 }
+.sek3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    margin-top: 50px;
+}
