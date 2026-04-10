@@ -46,3 +46,15 @@
     margin-top: 50px;
     font-size: 20px;
 }
+.divsek2 {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 330px;
+    padding: 10px;
+}
+.sek2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
