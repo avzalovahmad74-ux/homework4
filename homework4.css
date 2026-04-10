@@ -65,3 +65,11 @@
     font-size: 20px;
     margin-top: 50px;
 }
+.sek4 {
+    background-color: #88C9FD80;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px;
+    margin-top: 50px;
+}
